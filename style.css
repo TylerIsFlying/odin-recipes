@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(121, 7, 29);
+}
+.page-head-link nav {
+    text-align: center;
+    display: block;
+}
+.page-head-link button{
+    font-family: cursive, Verdana, Tahoma, sans-serif;
+    margin: 0;
+    padding: 8px;
+    font-size: 20px;
+    display: inline;
+    color: white;
+    background-color: rgb(231, 71, 84);
+    border-radius: 5px;
+    border: 1px solid  rgba(167, 49, 59, 0);;
+}
+.page-head-link button:hover {
+    background-color: rgb(224, 90, 101);
+}
+.page-head-link a {
+    text-decoration: none;
+}
+
+.page-title {
+    display: block;
+    text-align: center;
+    margin-bottom: 0;
+    padding: 0;
+    font-size: 40px;
+    color:rgb(240, 181, 181)
+}
